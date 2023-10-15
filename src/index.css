@@ -1,0 +1,13 @@
+.active{
+    font-weight: bold;
+}
+.slider img{
+    height: 450px;
+    object-fit: cover;
+}
+
+
+/* li .thumb{
+
+    width: 250px;
+} */
